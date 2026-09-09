@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297 269.89" fill="none"
+     stroke="currentColor" stroke-width="4" stroke-linecap="butt"
+     stroke-linejoin="miter" stroke-miterlimit="4" role="img"
+     aria-label="Detalhes Cautelosos">
+  <path class="dc-g1" d="M2,267.89 L2,102.42 L148.5,2.42 L295,102.42 L295,267.89"/>
+  <path class="dc-g2" d="M23,253.89 L23,113.27 L148.5,26.72 L274,113.27 L274,253.89"/>
+  <path class="dc-g3" d="M47.75,237.39 L47.75,126.38 L148.5,55.92 L249.25,126.38 L249.25,237.39"/>
+  <path class="dc-g4" d="M78.5,216.89 L78.5,142.3 L148.5,88.82 L218.5,142.3 L218.5,216.89"/>
+  <path class="dc-g5" d="M108,197.22 L108,157.5 L148.5,127.72 L189,157.5 L189,197.22"/>
+  <path class="dc-chao" d="M108,197.22 L2,267.89"/>
+  <path class="dc-chao" d="M189,197.22 L295,267.89"/>
+</svg>
